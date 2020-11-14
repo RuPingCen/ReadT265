@@ -4,11 +4,11 @@
 
 ## 下载编译代码
 
-把T265插在USB3.0的口子上
+把T265插在USB3.0口
 
 ```
 cd your_work_space
-git clone 
+git clone https://github.com/RuPingCen/ReadT265.git
 cd read_t265
 mkdir build && cd build
 cmake ..
