@@ -9,7 +9,7 @@
 ```
 cd your_work_space
 git clone https://github.com/RuPingCen/ReadT265.git
-cd read_t265
+cd ReadT265
 mkdir build && cd build
 cmake ..
 make
