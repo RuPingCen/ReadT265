@@ -1,0 +1,3 @@
+/home/crp/crp/read_t265/build/CMakeFiles/rebuild_cache.dir
+/home/crp/crp/read_t265/build/CMakeFiles/edit_cache.dir
+/home/crp/crp/read_t265/build/CMakeFiles/main.dir
